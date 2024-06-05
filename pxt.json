@@ -1,0 +1,56 @@
+{
+    "name": "Lord of the Flies (SAFE VERSION)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.0.5",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-premium-life": "github:jwunderl/arcade-premium-life#v0.2.1",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.51",
+        "tag": "v1.12.51",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/eb9fd884260f64c934fb51355e36f8c76272b6b4",
+        "target": "1.12.51",
+        "pxt": "8.5.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#EFD0AE",
+        "#F6D937",
+        "#F8A153",
+        "#EF6361",
+        "#C7555E",
+        "#501733",
+        "#71323C",
+        "#975E5E",
+        "#755B6C",
+        "#808FAA",
+        "#C4BBB8",
+        "#74A8A2",
+        "#186F5E",
+        "#46A45F",
+        "#88AF92"
+    ]
+}
